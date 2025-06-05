@@ -23,7 +23,7 @@ An LQF file consists of zero or more **sections**. Each section starts with a se
 ### Assignments
 
 - Assignments are key-value pairs within a section.  
-- Syntax: `<key> >> <value>`  
+- Syntax: `key >> value`  
 - Keys are identifiers (ASCII alphanumeric).  
 - Example:
 
