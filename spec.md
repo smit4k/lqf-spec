@@ -6,7 +6,7 @@ LQF (Lightweight Quick Format) is a minimalistic, human-readable configuration l
 
 ## File Structure
 
-An LQF file consists of zero or more **sections**. Each section starts with a section header, followed by zero or more key-value assignments.
+An LQF file consists of zero or more **sections**. Each section starts with a **section header**, followed by zero or more key-value **assignments**.
 
 ## Syntax
 
