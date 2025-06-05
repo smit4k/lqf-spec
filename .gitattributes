@@ -1,2 +1,1 @@
-# Force all .md files to be recognized as Markdown
-*.md linguist-language=Markdown
+*.md linguist-detectable
