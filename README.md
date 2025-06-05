@@ -10,6 +10,7 @@ This repo contains the official language specification, formatting guidelines, a
 - 🎨 [Style Guide](./style.md) – Formatting and linting rules
 - 🛣️ [Roadmap](./roadmap.md) – Planned features and syntax ideas
 - 📈 [Proposals](./proposals/) – Experimental or proposed additions
+- 📄 [Examples](./examples/) - Example `.lqf` files
 
 ## Status
 
