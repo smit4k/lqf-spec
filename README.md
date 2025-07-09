@@ -15,5 +15,3 @@ This repo contains the official language specification, formatting guidelines, a
 ## Status
 
 LQF is currently in early development. This spec may change frequently.
-
-Official parser in Rust: [smit4k/lqf](https://github.com/smit4k/lqf)
