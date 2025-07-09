@@ -39,7 +39,7 @@ Values can be one of the following types:
 | Type       | Syntax Example             | Description                   |
 |------------|----------------------------|-------------------------------|
 | String     | `"Hello, world!"`           | Double-quoted text           |
-| Number     | `42`                        | Integers                     |
+| Number     | `42`, `3.14`                | Integers, Floating points    |
 | Boolean    | `true`, `false`             | Logical values               |
 | Null       | `null`                      | Null value                   |
 | Array      | `[1, 2, 3]`, `["a", "b"]`   | Comma-separated list of values inside square brackets |
